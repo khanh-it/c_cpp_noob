@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536727617 source:d:\khanhdtp\projects\c_cpp\project\main.c
+	<stdio.h>
+
+1536722407 source:d:\khanhdtp\projects\c_cpp\project\helloworld.c
+	<stdio.h>
+
+1536722398 source:d:\khanhdtp\projects\c_cpp\project\variablesandtypes.c
+	<stdio.h>
+
+1536726303 source:d:\khanhdtp\projects\c_cpp\project\arrays.c
+	<stdio.h>
+
